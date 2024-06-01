@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toggle_listener_button" type="id" />
+    <item name="search_input" type="id" />
+    <item name="app_list_view" type="id" />
+    <item name="choose_notification_button" type="id" />
+</resources>

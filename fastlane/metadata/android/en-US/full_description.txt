@@ -1,0 +1,1 @@
+This Android application is designed to improve user experience by filtering and highlighting important notifications amongst spam. The app scans incoming notifications for a user-defined keyword. Its primary goal is to help users by ensuring they never miss crucial information!
