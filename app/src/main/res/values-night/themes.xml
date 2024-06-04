@@ -2,6 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.NotificationAlerter" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <!-- Define text color for dark mode -->
+        <item name="android:textColorPrimary">@android:color/white</item>
     </style>
 </resources>
