@@ -20,6 +20,11 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+
+            // Add the vcsInfo block to disable VCS info generation
+            vcsInfo {
+                include false
+            }
         }
     }
     compileOptions {
