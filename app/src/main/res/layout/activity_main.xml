@@ -12,10 +12,22 @@
         android:id="@+id/toggle_listener_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Toggle Listener"
+        android:text="Toggle alerter"
+        android:textSize="11sp"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/choose_notification_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose notification"
+        android:textSize="11sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="8dp"
         android:layout_marginTop="8dp" />
 
     <EditText
@@ -24,7 +36,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/toggle_listener_button"
         android:layout_marginTop="16dp"
-        android:hint="Enter search word"
+        android:hint="Enter search word..."
         android:inputType="text"
         android:minHeight="48dp" />
 
@@ -34,15 +46,5 @@
         android:layout_height="match_parent"
         android:layout_below="@id/search_input"
         android:layout_marginTop="16dp" />
-
-    <Button
-        android:id="@+id/choose_notification_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Choose notification"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp" />
 
 </RelativeLayout>
