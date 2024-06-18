@@ -14,7 +14,7 @@ This Android application enhances user experience by filtering and highlighting 
 2. **Set Keyword:** Enter a specific keyword that the app will search for in notifications.
 3. **Choose Apps:** Select the apps from which notifications should be monitored.
 4. **Activate Listener:** Enable the app's listener to start monitoring incoming notifications.
-5. **Permission Requirements:** Make sure to enable necessary permissions for the app to function properly. If permissions were not requested during installation, you can enable them in your device's Settings > Apps > [Your App] > Permissions.
+5. **Permission Requirements:** Make sure to enable necessary permissions for the app to function properly.
 
 ### Download
 - **F-Droid:** You can download the latest version of the app from [F-Droid](https://f-droid.org/en/packages/com.example.notificationalerter/).
